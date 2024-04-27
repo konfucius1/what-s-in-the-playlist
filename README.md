@@ -1,4 +1,7 @@
-# Mantine Vite template
+# What's in the Playlist?
+
+Efficiently extract video titles from any YouTube playlist.
+
 
 ## Features
 
