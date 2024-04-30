@@ -6,13 +6,10 @@ export function Welcome() {
     <>
       <Title className={classes.title} ta="center" mt={100}>
         What&lsquo;s in the{' '}
-        <Text inherit variant="gradient" component="span" gradient={{ from: 'pink', to: 'yellow' }}>
-          Playlist?
+        <Text inherit variant="gradient" component="span" gradient={{ from: 'cyan', to: 'blue' }}>
+          Pack?
         </Text>
       </Title>
-      <Text c="dimmed" ta="center" size="lg" maw={580} mx="auto" mt="xl">
-        Efficiently extract video titles from any YouTube playlist.{' '}
-      </Text>
     </>
   );
 }
